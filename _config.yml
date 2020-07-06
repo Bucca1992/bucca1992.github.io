@@ -11,9 +11,9 @@ highlighter: pygments
 title : Something Worth Sharing
 tagline: Site Tagline
 author :
-  name : Bucca
+  name : loyvon
   email : buccaneerhero@163.com
-  github : Bucca1992
+  github : loyvon
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
